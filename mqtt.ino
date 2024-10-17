@@ -39,7 +39,7 @@ void ICACHE_RAM_ATTR countpulse2() {
 
 
 
-const char* ssid =*********";
+const char* ssid ="*********";
 const char* password ="*******";
 const char* mqtt_server ="51.210.183.96";
 
